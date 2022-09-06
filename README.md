@@ -13,9 +13,8 @@
 - C
 - C++
 - Java
-- Javascript
 - CSS
-- 
+- Javascript
 
 <h3 align="center">🔍 Feel free to check out some of my work in my repositiories. 🔍</h3>
 
