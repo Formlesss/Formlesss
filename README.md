@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">👋 Hello visitor, I'm Formless.</h1>
+<h3 align="center">I'm currently a student of Applied Computer Science at Jagiellonian University.</h3>
 
 <!--
 **Formlesss/Formlesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
