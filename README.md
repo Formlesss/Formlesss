@@ -10,12 +10,13 @@
 *Nice to have you here. I'm Radoslaw and I come from small town in southern Poland (near Cracow). My nickname is Formless and I came up with it first as a jokey word play signifying the lack of form in either game or physical form but I like its real meaning; that I have no form/shape on the internet and that I can shape myself however I like.*
 
 ## 💻 Stuff I’m learning/working on
-- C
-- C++
-- Java
-- CSS
-- Javascript
-- [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Cpp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 
 <h3 align="center">🔍 Feel free to check out some of my work in my repositiories. 🔍</h3>
 
