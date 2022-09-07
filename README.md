@@ -22,7 +22,7 @@
 
 <h3 align="center">🔍 Feel free to check out some of my work in my repositiories. 🔍</h3>
 
-<br><br>
+<br>
 
 ## 📫 How to contact me: [email](mailto:radoslaww.nowak@student.uj.edu.pl)
 
