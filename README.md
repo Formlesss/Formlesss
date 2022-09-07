@@ -15,6 +15,7 @@
 - Java
 - CSS
 - Javascript
+- [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 
 <h3 align="center">🔍 Feel free to check out some of my work in my repositiories. 🔍</h3>
 
