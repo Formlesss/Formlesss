@@ -24,7 +24,7 @@
 
 <br>
 
-## 📫 How to contact me: [email](mailto:radoslaww.nowak@student.uj.edu.pl)
+## How to contact me: [📫📫📫](mailto:radoslaww.nowak@student.uj.edu.pl)
 
 <details>
   <summary>⚡ GitHub Stats</summary>
