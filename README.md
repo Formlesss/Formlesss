@@ -24,7 +24,12 @@
 
 <br>
 
-## How to contact me: [📫📫📫](mailto:radoslaww.nowak@student.uj.edu.pl)
+## How to contact me:
+[📫](mailto:radoslaww.nowak@student.uj.edu.pl)
+<a href="https://discord.com/users/669570119407632404"><img align="left" alt="Dsc" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/radosław-nowak-b17476218/"><img align="left" alt="In" width="26px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" style="padding-right:10px;" />
+
+<br>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
